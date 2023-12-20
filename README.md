@@ -4,7 +4,7 @@ A list of public references to Ether Alpha projects.
 
 ## ClientDiversity.org
 
-There's many Twitter references from notable accounts (such as Superphiz, Pseudo, Michael Sproul, Anthony Sassal, EthStaker, Lefteris, Josh Stark, Evan Van Ness, Micah Zoltu, mariano.eth, etc) as can be seen here: <https://twitter.com/search?q=clientdiversity.org&src=typed_query&f=top>
+There's many Twitter references from notable accounts (such as Superphiz, Pseudo, Michael Sproul, Anthony Sassal, EthStaker, Lefteris, Josh Stark, Evan Van Ness, Micah Zoltu, mariano.eth, etc) [as can be seen here](https://twitter.com/search?q=clientdiversity.org&src=typed_query&f=top).
 
 - Nov 25, 2023 - [[DevConnect 2023] Marek Moraczyński: Client Diversity - A Nethermind Core Dev Perspective](https://www.youtube.com/watch?v=uH4-QhlHkLE&t=592s)
 - Nov 16, 2023 - [The Daily Gwei Refuel #690](https://www.youtube.com/watch?v=Ksv99VRfwbk&t=132s)
@@ -24,7 +24,7 @@ There's many Twitter references from notable accounts (such as Superphiz, Pseudo
 
 ## ValidatorQueue.com
 
-There's many Twitter references from notable accounts (such as Superphiz, Josh Olszewicz, mariano.eth, EthStaker, Daniel (Swell), toast, dapplion.eth, Attestant, stakefish, butta.eth, 0xreptar.eth, flyguy.eth, lambert.eth, etc) as can be seen here: <https://twitter.com/search?q=validatorqueue.com&src=typed_query&f=top>
+There's many Twitter references from notable accounts (such as Superphiz, Josh Olszewicz, mariano.eth, EthStaker, Daniel (Swell), toast, dapplion.eth, Attestant, stakefish, butta.eth, 0xreptar.eth, flyguy.eth, lambert.eth, etc) [as can be seen here](https://twitter.com/search?q=validatorqueue.com&src=typed_query&f=top).
 
 - Oct 17, 2023 - [Money Matters: Ethereum validator queue empties for first time since merge](https://www.youtube.com/watch?v=_XAFT0LtsfA)
 - Oct 12, 2023 - [CoinDesk: Ethereum Has Nearly Cleared Out Validator Queue](https://www.coindesk.com/markets/2023/10/12/ethereum-has-nearly-cleared-out-validator-queue-a-sign-of-weak-staking-demand/)
@@ -34,7 +34,7 @@ There's many Twitter references from notable accounts (such as Superphiz, Josh O
 
 ## EthSunshine.com
 
-There's many Twitter references from notable accounts (such as Superphiz, EthStaker, Armagan, dcbuilder.eth, Jesse Pollak, Simon Brown, etc) as can be seen here: <https://twitter.com/search?q=ethsunshine.com&src=typed_query&f=top>
+There's many Twitter references from notable accounts (such as Superphiz, EthStaker, Armagan, dcbuilder.eth, Jesse Pollak, Simon Brown, etc) [as can be seen here](https://twitter.com/search?q=ethsunshine.com&src=typed_query&f=top).
 
 - Jun 10, 2023 - [EthStaker: ethsunshine.com](https://www.youtube.com/shorts/scyEMq_dT_w)
 
