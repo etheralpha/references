@@ -6,6 +6,7 @@ A list of public references to Ether Alpha projects.
 
 There's many Twitter references from notable accounts (such as Superphiz, Pseudo, Michael Sproul, Anthony Sassal, EthStaker, Lefteris, Josh Stark, Evan Van Ness, Micah Zoltu, mariano.eth, etc) [as can be seen here](https://nitter.net/search?q=clientdiversity.org&src=typed_query&f=top).
 
+- Jan 24, 2024 - [[CoinDesk] The Protocol: Ethereum Developers Warn on 'Diversity Problem'](https://www.coindesk.com/tech/2024/01/24/the-protocol-ethereum-developers-warn-on-diversity-problem/)
 - Nov 25, 2023 - [[DevConnect 2023] Marek Moraczyński: Client Diversity - A Nethermind Core Dev Perspective](https://www.youtube.com/watch?v=uH4-QhlHkLE&t=592s)
 - Nov 16, 2023 - [The Daily Gwei Refuel #690](https://www.youtube.com/watch?v=Ksv99VRfwbk&t=132s)
 - Aug 28, 2023 - [The Daily Gwei Refuel #647](https://www.youtube.com/watch?v=6MgCG6regIY&t=90s)
